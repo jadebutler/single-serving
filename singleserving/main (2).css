@@ -1,0 +1,9 @@
+#instructions .list {
+  columns: 20em 3;
+  column-gap: 3em;
+  column-rule: 1px solid #000;
+}
+
+#instructions .list li {
+ display: inline-block;
+}
